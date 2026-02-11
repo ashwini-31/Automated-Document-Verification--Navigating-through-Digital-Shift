@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+datasets/
+trained_models/
+*.png
+*.jpg
+*.jpeg
+.env
